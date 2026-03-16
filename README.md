@@ -30,7 +30,7 @@ pipreqs ./ --ignore (any_name)_env
 -- mediapipe    0.10.x  
 -- opencv       4.8.x  
 
-#functionalities of each module  
+# functionalities of each module  
   dataset         - contains datasets and other required data to train the model  
   models          - contains trained model in file format  
   src             - contains source file/s to run the models  
